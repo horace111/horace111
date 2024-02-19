@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @horace111
-- 👀 I’m interested in Python,music(YOASOBI,etc）
+- 👀 I’m interested in Python,music
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 2892439741@qq.com
 - 😄 Pronouns: odd
