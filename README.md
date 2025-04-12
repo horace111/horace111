@@ -1,10 +1,12 @@
-# 👋 Hi, I’m @horace111
-- 👀 I’m interested in Python,music
-- 🌱 I’m currently learning Python
-- 📫 How to reach me 2892439741@qq.com
-- 😄 Pronouns: odd
+# 👋**Hi there, I'm Horace111.**
 
-<!---
-horace111/horace111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-------
+
+🕮Currently, I'm a senior student, and I'm learning **Python**, **C++**, **JavaScript**, etc.  
+♒This is one of the projects I'm working on:  
+![AquaWidget](.\resource\aquawidget_blue_headpic.svg)  
+📮You can reach me via email: **<2892439741@qq.com>**
+
+-------
+> I believe that:  
+> Code is a powerful way to express ideas.
